@@ -415,7 +415,7 @@ nav .btn:hover{
         font-size: 16px;
     }
 }
-@media screen and (max-width:800px){
+@media screen and (max-width:700px){
     .checkButton{
         display: block;
     }
